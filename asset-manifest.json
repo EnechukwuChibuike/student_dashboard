@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/student_dashboard/static/css/main.7608a280.chunk.css",
+    "main.js": "/student_dashboard/static/js/main.13ba5bc9.chunk.js",
+    "main.js.map": "/student_dashboard/static/js/main.13ba5bc9.chunk.js.map",
+    "runtime-main.js": "/student_dashboard/static/js/runtime-main.018da67e.js",
+    "runtime-main.js.map": "/student_dashboard/static/js/runtime-main.018da67e.js.map",
+    "static/js/2.05318d6a.chunk.js": "/student_dashboard/static/js/2.05318d6a.chunk.js",
+    "static/js/2.05318d6a.chunk.js.map": "/student_dashboard/static/js/2.05318d6a.chunk.js.map",
+    "index.html": "/student_dashboard/index.html",
+    "precache-manifest.31fbaeeb885a995180f5c8ed14aa0b56.js": "/student_dashboard/precache-manifest.31fbaeeb885a995180f5c8ed14aa0b56.js",
+    "service-worker.js": "/student_dashboard/service-worker.js",
+    "static/css/main.7608a280.chunk.css.map": "/student_dashboard/static/css/main.7608a280.chunk.css.map",
+    "static/js/2.05318d6a.chunk.js.LICENSE.txt": "/student_dashboard/static/js/2.05318d6a.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/student_dashboard/static/media/Logo.de8879bd.png",
+    "static/media/user.png": "/student_dashboard/static/media/user.3967cb59.png",
+    "static/media/user.svg": "/student_dashboard/static/media/user.d8716584.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.018da67e.js",
+    "static/js/2.05318d6a.chunk.js",
+    "static/css/main.7608a280.chunk.css",
+    "static/js/main.13ba5bc9.chunk.js"
+  ]
+}
